@@ -25,5 +25,5 @@ result = binarySearch(arr, 0, n - 1, x)
 if (result == -1): 
 	print("Element is not present in array") 
 else: 
-	print("Element is present at index", resu
+	print("Element is present at index", res
 
