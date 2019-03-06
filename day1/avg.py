@@ -13,5 +13,5 @@ def streamAvg(arr, n):
 arr = [10, 20, 30, 
 	40, 50, 60]; 
 n = len(arr); 
-streamAvg(arr, n) 
+streamAvg(arr, n); 
 
