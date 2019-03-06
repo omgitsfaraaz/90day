@@ -28,6 +28,6 @@ def insertion_sort(arr):
 	return arr 
 
 print("Sorted array:") 
-print(insertion_sort([37, 23, 0, 17, 12, 72, 31, 46, 100, 88, 54])
+print(insertion_sort([37, 23, 0, 17, 12, 72, 31, 46, 100, 88, 54]))
 
  
