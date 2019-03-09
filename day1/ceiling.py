@@ -21,5 +21,5 @@ index = ceilSearch(arr, 0, n-1, x);
 if index == -1: 
 	print ("Ceiling of %d doesn't exist in array "% x) 
 else: 
-	print ("ceiling of %d is %d"%(x, arr[index])) 
+	print ("ceiling of %d is %d"%(x, arr[index]) 
 
