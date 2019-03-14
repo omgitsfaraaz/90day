@@ -16,5 +16,5 @@ num = 616
 if(isDivisibleBy7(num)) : 
 	print("Divisible")
 else : 
-	print("Not Divisibl
+	print("Not Divisib
 
