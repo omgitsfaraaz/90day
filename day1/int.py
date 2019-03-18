@@ -5,5 +5,5 @@ def multiplyWith3Point5(x):
 
 
 x = 4
-print(multiplyWith3Point5
+print(multiplyWith3Point5(x))
 
