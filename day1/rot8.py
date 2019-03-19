@@ -47,5 +47,5 @@ def countRotationsDivBy8(n):
 
 if __name__=='__main__': 
 	n = "43262488612"
-	print("Rotations:",countRotationsDivBy8(n)) 
+	print("Rotations:",countRotationsDivBy8(n)
 
