@@ -1,7 +1,7 @@
 a = 9
 b = 4
 
-add =  
+add = a + b 
 sub = a - b 
 mul = a * b 
 div1 = a / b 
