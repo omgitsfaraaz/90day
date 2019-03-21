@@ -23,5 +23,5 @@ def isInside(x1, y1, x2, y2, x3, y3, x, y):
 if (isInside(0, 0, 20, 0, 10, 30, 10, 15)): 
 	print('Inside') 
 else: 
-	print('Not Inside') 
+	print('Not Inside'
 
