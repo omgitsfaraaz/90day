@@ -37,4 +37,4 @@ n = len(arr)
 index = jumpSearch(arr, x, n) 
 
 
-print("Number" , x, "is at index" ,"%.0f"%ind
+print("Number" , x, "is at index" ,"%.0f"%in
