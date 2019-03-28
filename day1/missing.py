@@ -6,4 +6,4 @@ def getMissingNo(A):
 
 A = [1, 2, 4, 5, 6] 
 miss = getMissingNo(A) 
-print(miss
+print(mis
