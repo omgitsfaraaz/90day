@@ -23,5 +23,5 @@ def findRoots( a, b, c):
 a = 1
 b = -7
 c = 12
-findRoots(a,  
+findRoots(a, b, c) 
 
