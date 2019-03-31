@@ -52,5 +52,5 @@ g1.addEdge(1,2)
 if g1.isCyclic(): 
 	print("Graph contains cycle")
 else : 
-	print("Graph does not contain cycl
+	print("Graph does not contain cyc
 
