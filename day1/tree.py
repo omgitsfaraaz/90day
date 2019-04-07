@@ -80,5 +80,5 @@ if __name__ == "__main__":
 	timSort(arr, n) 
 	
 	print("After Sorting Array is") 
-	printArray(ar 
+	printArray(arr, n) 
 	
