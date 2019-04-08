@@ -19,4 +19,4 @@ def search(pat, txt):
 if __name__ == '__main__': 
 	txt = "AABAACAADAABAAABAA"
 	pat = "AABA"
-	search(pat, txt  
+	search(pat, tx  
