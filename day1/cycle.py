@@ -30,7 +30,7 @@ for cycleStart in range(0, len(array) - 1):
 		array[pos], item = item, array[pos] 
 		writes += 1
 		
-		return writes 
+			return writes 
 	
 arr = [1, 8, 3, 9, 10, 10, 2, 4 ] 
 n = len(arr) 
@@ -38,5 +38,5 @@ cycleSort(arr)
 
 print("After sort : ") 
 for i in range(0, n) : 
-	print(arr[i], end = 
+	print(arr[i], end = ' ') 
 
