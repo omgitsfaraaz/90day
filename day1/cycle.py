@@ -38,5 +38,5 @@ cycleSort(arr)
 
 print("After sort : ") 
 for i in range(0, n) : 
-	print(arr[i], end = ' 
+	print(arr[i], end = 
 
