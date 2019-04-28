@@ -28,4 +28,4 @@ up = 1
 sort(a, n, up) 
 print ("\n\nSorted array is") 
 for i in range(n): 
-	print("%d" %a[i 
+	print("%d" %a[i]), 
